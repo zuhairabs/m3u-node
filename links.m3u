@@ -1,0 +1,198 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="2" tvg-country="Iraq" tvg-language="Arabic" group-title="Arabic" tvg-name="Masjid Al Kufa" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/kufa.jpg",Masjid Al Kufa (1080)
+http://212.18.231.218:1935/kufalive/kufalive/playlist.m3u8
+#EXTINF:-1 tvg-id="3" tvg-country="Iraq" tvg-language="Arabic" group-title="Arabic" tvg-name="Hazrat Abbas Shrine" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/abbas.jpg",Hazrat Abbas Shrine (1080)
+https://stream.alkafeel.net/live/alkafeel/rAa5PGot1/manifest.m3u8
+#EXTINF:-1 tvg-id="4" tvg-country="Iraq" tvg-language="Arabic" group-title="Arabic" tvg-name="Imam Husain Shrine 1" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/im-hussein-shrine.jpg",Imam Husain Shrine 1 (1080)
+https://stream.alkafeel.net/live/alkafeel/rAa5PGot2/manifest.m3u8
+#EXTINF:-1 tvg-id="5" tvg-country="Iraq" tvg-language="Arabic" group-title="Arabic" tvg-name="Imam Husain Shrine 2" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/im-hussein-shrine.jpg",Imam Husain Shrine 2 (1080)
+https://stream.alkafeel.net/live/alkafeel/rAa5PGot4/manifest.m3u8
+#EXTINF:-1 tvg-id="6" tvg-country="Iraq" tvg-language="Arabic" group-title="Arabic" tvg-name="Imam Husain Shrine 3" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/im-hussein-shrine.jpg",Imam Husain Shrine 3 (1080)
+https://stream.alkafeel.net/live/alkafeel/rAa5PGot1/manifest.m3u8
+#EXTINF:-1 tvg-id="7" tvg-country="Iraq" tvg-language="Arabic" group-title="Arabic" tvg-name="Imam Husain Shrine 4" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/im-hussein-shrine.jpg",Imam Husain Shrine 4 (1080)
+https://stream.alkafeel.net/live/alkafeel/rAa5PGot1/manifest.m3u8
+#EXTINF:-1 tvg-id="10" tvg-country="Iran" tvg-language="Farsi" group-title="Farsi" tvg-name="Imam Reza Shrine 3" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/reza.jpg",Imam Reza Shrine 3 (1080)
+https://tv.razavi.ir/hls/jomhori.m3u8
+#EXTINF:-1 tvg-id="8" tvg-country="Iran" tvg-language="Farsi" group-title="Farsi" tvg-name="Imam Reza Shrine 1" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/reza.jpg",Imam Reza Shrine 1 (1080)
+https://tv.razavi.ir/hls/rozeh.m3u8
+#EXTINF:-1 tvg-id="12" tvg-country="Iran" tvg-language="Farsi" group-title="Farsi" tvg-name="Imam Reza Shrine 5" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/reza.jpg",Imam Reza Shrine 5 (1080)
+https://tv.razavi.ir/hls/goharshad.m3u8
+#EXTINF:-1 tvg-id="11" tvg-country="Iran" tvg-language="Farsi" group-title="Farsi" tvg-name="Imam Reza Shrine 4" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/reza.jpg",Imam Reza Shrine 4 (1080)
+https://tv.razavi.ir/hls/azadi.m3u8
+#EXTINF:-1 tvg-id="13" tvg-country="Iran" tvg-language="Farsi" group-title="Farsi" tvg-name="Imam Reza Shrine 6" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/reza.jpg",Imam Reza Shrine 6 (1080)
+https://tv.razavi.ir/hls/jame.m3u8
+#EXTINF:-1 tvg-id="9" tvg-country="Iran" tvg-language="Farsi" group-title="Farsi" tvg-name="Imam Reza Shrine 2" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/reza.jpg",Imam Reza Shrine 2 (1080)
+https://tv.razavi.ir/hls/enghelab.m3u8
+#EXTINF:-1 tvg-id="15" tvg-country="Iran" tvg-language="Farsi" group-title="Farsi" tvg-name="Imam Reza Shrine 8" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/reza.jpg",Imam Reza Shrine 8 (1080)
+https://tv.razavi.ir/hls/rozeh.m3u8
+#EXTINF:-1 tvg-id="14" tvg-country="Iran" tvg-language="Farsi" group-title="Farsi" tvg-name="Imam Reza Shrine 7" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/reza.jpg",Imam Reza Shrine 7 (1080)
+https://tv.razavi.ir/hls/gonbad.m3u8
+#EXTINF:-1 tvg-id="18" tvg-country="India" tvg-language="Urdu" group-title="Urdu" tvg-name="Channel Win" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/win.png",Channel Win (1080)
+http://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/playlist.m3u8
+#EXTINF:-1 tvg-id="16" tvg-country="India" tvg-language="Urdu" group-title="Urdu" tvg-name="Zainabia Channel" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/zainabia.jpg",Zainabia Channel (1080)
+https://zainabia2.livebox.co.in/Zainabiachannel2hls/live.m3u8
+#EXTINF:-1 tvg-id="19" tvg-country="India" tvg-language="Urdu" group-title="Urdu" tvg-name="Husaini Channel" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/husaini.jpg",Husaini Channel (1080)
+http://5k8q87xzdy4v-hls-live.wmncdn.net/hctv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="17" tvg-country="India" tvg-language="Urdu" group-title="Urdu" tvg-name="Ali TV" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/alitv.jpg",Ali TV (1080)
+https://alitv.livebox.co.in/alitvhls/live.m3u8
+#EXTINF:-1 tvg-id="21" tvg-country="Pakistan" tvg-language="Urdu" group-title="Urdu" tvg-name="Hidayat TV" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/hidayat.jpg",Hidayat TV (1080)
+https://5928f90056f31.streamlock.net/hidayat-live/hidayat/playlist.m3u8
+#EXTINF:-1 tvg-id="20" tvg-country="Uk" tvg-language="Urdu" group-title="Urdu" tvg-name="Imam Hussein TV 4" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/hussein-tv4.png",Imam Hussein TV 4 (1080)
+https://ur.imamhusseintv.com/live/ih4.m3u8
+#EXTINF:-1 tvg-id="23" tvg-country="Pakistan" tvg-language="Urdu" group-title="Urdu" tvg-name="Qaim TV" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/qaimtv.jpg",Qaim TV (1080)
+https://cdn.live247stream.com/qaim/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="22" tvg-country="Pakistan" tvg-language="Urdu" group-title="Urdu" tvg-name="Al Mahdi TV" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/al-mahdi.jpg",Al Mahdi TV (1080)
+https://iptv.almahditv.com/almahdi/playlist.m3u8
+#EXTINF:-1 tvg-id="24" tvg-country="Pakistan" tvg-language="Urdu" group-title="Urdu" tvg-name="Hyder TV" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/hyder.jpg",Hyder TV (1080)
+https://cdn.live247stream.com/hyder/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="28" tvg-country="Usa" tvg-language="English" group-title="English" tvg-name="Velayat TV USA" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/velayat-usa.jpg",Velayat TV USA (1080)
+https://59af8d8ed78d5.streamlock.net/live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="29" tvg-country="Uk" tvg-language="English" group-title="English" tvg-name="Imam Hussein TV 3" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/imam-hussein-tv-3.png",Imam Hussein TV 3 (1080)
+https://en.imamhusseintv.com/live/ih3.m3u8
+#EXTINF:-1 tvg-id="30" tvg-country="Uk" tvg-language="English" group-title="English" tvg-name="Safeer TV" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/safeer-tv.jpg",Safeer TV (1080)
+https://cdn3.wowza.com/1/YStGZlJRdktzZkdK/VXROZWNW/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="31" tvg-country="Iran" tvg-language="English" group-title="English" tvg-name="Marjaeyat TV EN" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/marjaeyat-english.jpg",Marjaeyat TV EN (1080)
+https://liveen.marjaeyattv.com/mtv_en/playlist.m3u8
+#EXTINF:-1 tvg-id="32" tvg-country="Uk" tvg-language="English" group-title="English" tvg-name="Ahlulbayt TV" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/ahlulbayt.jpg",Ahlulbayt TV (1080)
+https://5f3e23ac71915.streamlock.net:4434/live/livestream1.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="33" tvg-country="Iran" tvg-language="English" group-title="English" tvg-name="iFilm English" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/ifilm-en.jpg",iFilm English (1080)
+https://live1.presstv.ir/live/ifilmen.m3u8
+#EXTINF:-1 tvg-id="38" tvg-country="Iraq" tvg-language="Arabic" group-title="Arabic" tvg-name="Al Ahwaz TV" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/ahwaz.jpg",Al Ahwaz TV (1080)
+http://51.210.227.131/hls/stream.m3u8
+#EXTINF:-1 tvg-id="41" tvg-country="Iraq" tvg-language="Arabic" group-title="Arabic" tvg-name="Al Forat TV" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/forat.jpg",Al Forat TV (1080)
+https://601246d26b133.streamlock.net//live/_definst_/11/playlist.m3u8
+#EXTINF:-1 tvg-id="43" tvg-country="Iraq" tvg-language="Arabic" group-title="Arabic" tvg-name="Imam Hussein TV 2" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/hussein-tv2.jpg",Imam Hussein TV 2 (1080)
+https://mn-nl.mncdn.com/ihtv2/ihtv2_sd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="44" tvg-country="Iraq" tvg-language="Arabic" group-title="Arabic" tvg-name="Dua Channel" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/dua-channel.jpg",Dua Channel (1080)
+https://live.ishiacloud.com/haditv.co.uk/dua-channel.m3u8
+#EXTINF:-1 tvg-id="45" tvg-country="Iraq" tvg-language="Arabic" group-title="Arabic" tvg-name="Al Thaqalayn TV" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/thaqalayn-tv.jpg",Al Thaqalayn TV (1080)
+https://live.thaqalayn.tv/hls/live.m3u8
+#EXTINF:-1 tvg-id="46" tvg-country="Iraq" tvg-language="Arabic" group-title="Arabic" tvg-name="Al Maaref TV" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/maaref-tv.jpg",Al Maaref TV (1080)
+https://5e74a9d684b2e.streamlock.net/liveTrans/ngrp:channel23_all/playlist.m3u8
+#EXTINF:-1 tvg-id="47" tvg-country="Iraq" tvg-language="Arabic" group-title="Arabic" tvg-name="Al Manar TV" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/manar-tv.jpg",Al Manar TV (1080)
+https://stream.fastpublish.net/ALManarLive/index.m3u8
+#EXTINF:-1 tvg-id="48" tvg-country="Iraq" tvg-language="Arabic" group-title="Arabic" tvg-name="Al Iman TV" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/iman-tv.jpg",Al Iman TV (1080)
+https://svs.itworkscdn.net/alimanlive/imantv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="51" tvg-country="Iraq" tvg-language="Arabic" group-title="Arabic" tvg-name="Ifilm AR" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/ifilm-ar.jpg",Ifilm AR (1080)
+https://live1.presstv.ir/live/ifilmar.m3u8
+#EXTINF:-1 tvg-id="52" tvg-country="Iraq" tvg-language="Arabic" group-title="Arabic" tvg-name="Al Masirah TV" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/masirah-tv.jpg",Al Masirah TV (1080)
+https://svs.itworkscdn.net/almasiralive/almasira.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="55" tvg-country="Iraq" tvg-language="Arabic" group-title="Arabic" tvg-name="Al Iraqiyah News" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/iraqiyah-tv.jpg",Al Iraqiyah News (1080)
+https://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
+#EXTINF:-1 tvg-id="56" tvg-country="Iran" tvg-language="Arabic" group-title="Arabic" tvg-name="Marjaeyat TV AR" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/marjaeyat.jpg",Marjaeyat TV AR (1080)
+http://livefa.marjaeyattv.com/mtv_ar/playlist.m3u8
+#EXTINF:-1 tvg-id="57" tvg-country="Iraq" tvg-language="Arabic" group-title="Arabic" tvg-name="Al Etejah TV" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/etejah.jpg",Al Etejah TV (1080)
+https://streaming.aletejahtv.iq:1937/etejah-live/smil:etejah.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="58" tvg-country="Iraq" tvg-language="Arabic" group-title="Arabic" tvg-name="Islamasil TV" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/islamasil.jpg",Islamasil TV (1080)
+http://212.86.76.85/live/asil.m3u8
+#EXTINF:-1 tvg-id="61" tvg-country="Iraq" tvg-language="Arabic" group-title="Arabic" tvg-name="Al Ahad TV" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/alahad.jpg",Al Ahad TV (1080)
+http://148.66.130.171:1935/Alahadlive/AlahadTV/playlist.m3u8
+#EXTINF:-1 tvg-id="64" tvg-country="Iran" tvg-language="Farsi" group-title="Farsi" tvg-name="Hodhod FA TV" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/hodhod.jpg",Hodhod FA TV (1080)
+https://nl.livekadeh.com/hls2/hodhodfarsi.m3u8
+#EXTINF:-1 tvg-id="65" tvg-country="Iran" tvg-language="Farsi" group-title="Farsi" tvg-name="Salaam TV" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/salaam.jpg",Salaam TV (1080)
+https://iptv.salaamtv.org/salaam/playlist.m3u8
+#EXTINF:-1 tvg-id="66" tvg-country="Iran" tvg-language="Farsi" group-title="Farsi" tvg-name="Imam Hussein TV 1" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/hussein-tv1.png",Imam Hussein TV 1 (1080)
+https://mn-nl.mncdn.com/ihtv1/ihtv1_sd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="67" tvg-country="Iran" tvg-language="Farsi" group-title="Farsi" tvg-name="Marjaeyat TV FA" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/marjaeyat.jpg",Marjaeyat TV FA (1080)
+http://livefa.marjaeyattv.com/mtv_fa/playlist.m3u8
+#EXTINF:-1 tvg-id="68" tvg-country="Iran" tvg-language="Farsi" group-title="Farsi" tvg-name="Labbayk TV" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/labbayk.jpg",Labbayk TV (1080)
+https://s-cloud.irib.ir/live/labbayk/labbayk.m3u8
+#EXTINF:-1 tvg-id="69" tvg-country="Iran" tvg-language="English" group-title="English" tvg-name="Press TV" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/press-tv.jpg",Press TV (1080)
+https://live1.presstv.ir/live/presstv.m3u8
+#EXTINF:-1 tvg-id="70" tvg-country="Iran" tvg-language="Farsi" group-title="Farsi" tvg-name="Velayat TV" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/velayat.jpg",Velayat TV (1080)
+https://nl.livekadeh.com/hls2/velayattv.m3u8
+#EXTINF:-1 tvg-id="71" tvg-country="Iran" tvg-language="Farsi" group-title="Farsi" tvg-name="IRIB Khabar" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/khabar.jpg",IRIB Khabar (1080)
+https://bozz.bebinhd.com/live/khabar-hd/chunks.m3u8
+#EXTINF:-1 tvg-id="72" tvg-country="Iran" tvg-language="Farsi" group-title="Farsi" tvg-name="Al Alam News" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/alalam.jpg",Al Alam News (1080)
+https://live2.alalam.ir/alalam.m3u8
+#EXTINF:-1 tvg-id="73" tvg-country="Iran" tvg-language="Farsi" group-title="Farsi" tvg-name="IRIB Shoma" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/shoma.jpg",IRIB Shoma (1080)
+https://s-cloud.irib.ir/live/shoma/shoma.m3u8
+#EXTINF:-1 tvg-id="74" tvg-country="Iran" tvg-language="Farsi" group-title="Farsi" tvg-name="Ifilm Persian" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/ifilm-farsi.jpg",Ifilm Persian (1080)
+https://live.presstv.ir/ifilmlive/smil:ifilmtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="75" tvg-country="Iran" tvg-language="Farsi" group-title="Farsi" tvg-name="Ifilm 2" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/ifilm2.jpg",Ifilm 2 (1080)
+https://live1.presstv.ir/live/ifilm2.m3u8
+#EXTINF:-1 tvg-id="76" tvg-country="Iran" tvg-language="Farsi" group-title="Farsi" tvg-name="IRIB 1" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/irib1.jpg",IRIB 1 (1080)
+https://bozz.bebinhd.com/live/tv1/chunks.m3u8
+#EXTINF:-1 tvg-id="78" tvg-country="Iran" tvg-language="Farsi" group-title="Farsi" tvg-name="IRIB 3" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/irib3.jpg",IRIB 3 (1080)
+https://sdm.telewebion.com/live/tv3/tv3_dvr-480p/index.m3u8
+#EXTINF:-1 tvg-id="80" tvg-country="Iran" tvg-language="Farsi" group-title="Farsi" tvg-name="IRIB 5" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/irib5.jpg",IRIB 5 (1080)
+https://s-cloud.irib.ir/live/tv5/tv5.m3u8
+#EXTINF:-1 tvg-id="79" tvg-country="Iran" tvg-language="Farsi" group-title="Farsi" tvg-name="IRIB 4" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/irib4.jpg",IRIB 4 (1080)
+https://s-cloud.irib.ir/live/tv4/tv4.m3u8
+#EXTINF:-1 tvg-id="81" tvg-country="Iran" tvg-language="Farsi" group-title="Farsi" tvg-name="IRIB Varzesh" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/varzesh.jpg",IRIB Varzesh (1080)
+https://ss.90minlive.online/live/varzesh-irib3343/chunks.m3u8
+#EXTINF:-1 tvg-id="77" tvg-country="Iran" tvg-language="Farsi" group-title="Farsi" tvg-name="IRIB 2" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/irib2.jpg",IRIB 2 (1080)
+https://bozz.bebinhd.com/live/tv02/chunks.m3u8
+#EXTINF:-1 tvg-id="82" tvg-country="Iran" tvg-language="Farsi" group-title="Farsi" tvg-name="IRIB Omid" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/omid.jpg",IRIB Omid (1080)
+https://s-cloud.irib.ir/live/omid/omid.m3u8
+#EXTINF:-1 tvg-id="83" tvg-country="Iran" tvg-language="Farsi" group-title="Farsi" tvg-name="IRIB Nasim" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/nasim.jpg",IRIB Nasim (1080)
+https://s-cloud.irib.ir/live/nasim/nasim.m3u8
+#EXTINF:-1 tvg-id="84" tvg-country="Iran" tvg-language="Farsi" group-title="Farsi" tvg-name="Iran International" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/ir-international.jpg",Iran International (1080)
+https://live.playstop.me/1816184091/index.m3u8
+#EXTINF:-1 tvg-id="111" tvg-country="Iran" tvg-language="French" group-title="French" tvg-name="Press TV French" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/press-tv.jpg",Press TV French (1080)
+https://live1.presstv.ir/live/presstvfr/index.m3u8
+#EXTINF:-1 tvg-id="85" tvg-country="Iran" tvg-language="Farsi" group-title="Farsi" tvg-name="Mostanad TV" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/mostanad.jpg",Mostanad TV (1080)
+https://s-cloud.irib.ir/live/mostanad/mostanad.m3u8
+#EXTINF:-1 tvg-id="112" tvg-country="Africa" tvg-language="Hausa" group-title="Hausa" tvg-name="Hausa TV" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/hausa.jpg",Hausa TV (1080)
+https://live1.presstv.ir/live/hausatvha/index.m3u8
+#EXTINF:-1 tvg-id="86" tvg-country="Iran" tvg-language="Farsi" group-title="Farsi" tvg-name="Ofogh TV" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/ofogh.jpg",Ofogh TV (1080)
+https://s-cloud.irib.ir/live/ofogh/ofogh.m3u8
+#EXTINF:-1 tvg-id="87" tvg-country="Iran" tvg-language="Spanish" group-title="Spanish" tvg-name="Hispan TV" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/hispan.jpg",Hispan TV (1080)
+https://live.presstv.ir/live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="88" tvg-country="Iran" tvg-language="Farsi" group-title="Farsi" tvg-name="Fars TV" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/fars.jpg",Fars TV (1080)
+https://s-cloud.irib.ir/live/fars/fars.m3u8
+#EXTINF:-1 tvg-id="113" tvg-country="Iran" tvg-language="Farsi" group-title="Farsi" tvg-name="Salamat TV" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/salamat.jpg",Salamat TV (1080)
+https://s-cloud.irib.ir/live/salamat/salamat.m3u8
+#EXTINF:-1 tvg-id="114" tvg-country="Iran" tvg-language="Farsi" group-title="Farsi" tvg-name="Sepehr TV" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/sepehr.jpg",Sepehr TV (1080)
+https://s-cloud.irib.ir/live/sepehr/sepehr.m3u8
+#EXTINF:-1 tvg-id="115" tvg-country="Iran" tvg-language="Farsi" group-title="Farsi" tvg-name="Nama TV" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/nama.jpg",Nama TV (1080)
+https://s-cloud.irib.ir/live/nama/nama.m3u8
+#EXTINF:-1 tvg-id="116" tvg-country="Iran" tvg-language="Farsi" group-title="Farsi" tvg-name="Javaneh TV" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/javaneh.jpg",Javaneh TV (1080)
+https://s-cloud.irib.ir/live/javaneh/javaneh.m3u8
+#EXTINF:-1 tvg-id="117" tvg-country="Iran" tvg-language="Farsi" group-title="Farsi" tvg-name="Nava TV" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/nava.jpg",Nava TV (1080)
+https://s-cloud.irib.ir/live/nava/nava.m3u8
+#EXTINF:-1 tvg-id="118" tvg-country="Iran" tvg-language="Farsi" group-title="Farsi" tvg-name="IRIB Quran" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/quran-irib.jpg",IRIB Quran (1080)
+https://s-cloud.irib.ir/live/quran/quran.m3u8
+#EXTINF:-1 tvg-id="119" tvg-country="Iran" tvg-language="Farsi" group-title="Farsi" tvg-name="Al Zahra Iran" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/allzahra.jpg",Al Zahra Iran (1080)
+https://live.cdn.asset.aparat.com/821106df6530f9d94e7c15d661468963/livehls/allzahragrup_jkrXh.m3u8?s=Hp-ZSx8AplOxOBjDyRSnzQ&e=1631969045&ip=103.106.138.196
+#EXTINF:-1 tvg-id="90" tvg-country="Turkey" tvg-language="Turkish" group-title="Turkish" tvg-name="On4 TV" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/on4.jpg",On4 TV (1080)
+http://yayin.netradyom.com:1935/live/on4/playist.m3u8
+#EXTINF:-1 tvg-id="120" tvg-country="Africa" tvg-language="Swahili" group-title="Swahili" tvg-name="IBN TV Africa" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/ibntv.jpg",IBN TV Africa (1080)
+https://159.65.95.207/hls/stream.m3u8
+#EXTINF:-1 tvg-id="92" tvg-country="Turkey" tvg-language="Turkish" group-title="Turkish" tvg-name="Hadi TV Turkish" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/haditv.jpg",Hadi TV Turkish (1080)
+https://live.ishiacloud.com/haditv.co.uk/haditv7.m3u8
+#EXTINF:-1 tvg-id="93" tvg-country="Azerbaijan" tvg-language="Azeri" group-title="Azeri" tvg-name="Hadi TV Azeri" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/haditv.jpg",Hadi TV Azeri (1080)
+https://live.ishiacloud.com/haditv.co.uk/haditv3.m3u8
+#EXTINF:-1 tvg-id="94" tvg-country="Iran" tvg-language="Farsi" group-title="Farsi" tvg-name="Hadi TV Farsi" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/haditv.jpg",Hadi TV Farsi (1080)
+https://live.ishiacloud.com/haditv.co.uk/haditv4.m3u8
+#EXTINF:-1 tvg-id="96" tvg-country="Pakistan" tvg-language="Urdu" group-title="Urdu" tvg-name="Hadi TV Urdu" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/haditv.jpg",Hadi TV Urdu (1080)
+https://live.ishiacloud.com/haditv.co.uk/haditv1.m3u8
+#EXTINF:-1 tvg-id="95" tvg-country="Pakistan" tvg-language="English" group-title="English" tvg-name="Hadi TV English" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/haditv.jpg",Hadi TV English (1080)
+https://live.ishiacloud.com/haditv.co.uk/haditv1.m3u8
+#EXTINF:-1 tvg-id="97" tvg-country="Africa" tvg-language="Swahili" group-title="Swahili" tvg-name="Hadi TV Swahili" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/haditv.jpg",Hadi TV Swahili (1080)
+https://live.ishiacloud.com/haditv.co.uk/haditv5.m3u8
+#EXTINF:-1 tvg-id="98" tvg-country="Indonesia" tvg-language="Bahasa" group-title="Bahasa" tvg-name="Hadi TV Bahasa" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/haditv.jpg",Hadi TV Bahasa (1080)
+https://live.ishiacloud.com/haditv.co.uk/haditv2.m3u8
+#EXTINF:-1 tvg-id="99" tvg-country="Afghanistan" tvg-language="Pashto" group-title="Pashto" tvg-name="Hadi TV Pashto" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/haditv.jpg",Hadi TV Pashto (1080)
+https://live.ishiacloud.com/haditv.co.uk/haditv6.m3u8
+#EXTINF:-1 tvg-id="101" tvg-country="Thailand" tvg-language="Thai" group-title="Thai" tvg-name="Hadi TV Thai" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/haditv.jpg",Hadi TV Thai (1080)
+https://live.ishiacloud.com/haditv.co.uk/haditv2.m3u8
+#EXTINF:-1 tvg-id="100" tvg-country="France" tvg-language="French" group-title="French" tvg-name="Hadi TV French" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/haditv.jpg",Hadi TV French (1080)
+https://live.ishiacloud.com/haditv.co.uk/haditv8.m3u8
+#EXTINF:-1 tvg-id="102" tvg-country="Africa" tvg-language="Hausa" group-title="Hausa" tvg-name="Hadi TV Hausa" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/haditv.jpg",Hadi TV Hausa (1080)
+https://live.ishiacloud.com/haditv.co.uk/haditv5.m3u8
+#EXTINF:-1 tvg-id="103" tvg-country="Afghanistan" tvg-language="Dari" group-title="Dari" tvg-name="Hadi TV Dari" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/haditv.jpg",Hadi TV Dari (1080)
+https://live.ishiacloud.com/haditv.co.uk/haditv4.m3u8
+#EXTINF:-1 tvg-id="119" tvg-country="Africa" tvg-language="Gujrati" group-title="Gujrati" tvg-name="IBN TV" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/ibntv.jpg",IBN TV (1080)
+http://138.68.138.119:8080/low/5a8993709ea19/index.m3u8
+#EXTINF:-1 tvg-id="104" tvg-country="Kurdistan" tvg-language="Kurdi" group-title="Kurdi" tvg-name="Hadi TV Kurdi" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/haditv.jpg",Hadi TV Kurdi (1080)
+https://live.ishiacloud.com/haditv.co.uk/haditv4.m3u8
+#EXTINF:-1 tvg-id="105" tvg-country="Azerbaijan" tvg-language="Russian" group-title="Russian" tvg-name="Hadi TV Russia" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/haditv.jpg",Hadi TV Russia (1080)
+https://live.ishiacloud.com/haditv.co.uk/haditv3.m3u8
+#EXTINF:-1 tvg-id="110" tvg-country="Iran" tvg-language="Turkish" group-title="Turkish" tvg-name="Al Zahra TV" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/alzahra.jpg",Al Zahra TV (1080)
+https://live.al-zahratv.com/live/playlist.m3u8
+#EXTINF:-1 tvg-id="110" tvg-country="Iran" tvg-language="Turkish" group-title="Turkish" tvg-name="Al Zahra TV" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/alzahra.jpg",Al Zahra TV (1080)
+https://live.al-zahratv.com/live/playlist.m3u8
+#EXTINF:-1 tvg-id="122" tvg-country="France" tvg-language="French" group-title="French" tvg-name="Khoja TV" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/khojatv.jpg",Khoja TV (1080)
+https://livecdn.live247stream.com/khoja/tv/playlist.m3u8
